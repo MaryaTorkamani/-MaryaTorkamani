@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=MaryaTorkamani)
 
 
+Over 7 years of experience in data analyzing, data engineering, developing ML features and implementing BI solutions in the fintech areas.
+
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&include_all_commits=true&theme=merko) -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&show_icons=true&theme=dark"/> 
 
