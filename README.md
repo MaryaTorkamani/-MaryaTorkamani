@@ -2,9 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=MaryaTorkamani)
 
-Senior DevOps/FinOps Consultant With more than 16 years of experience in software development, high performance, distributed systems, big data infrastructure, and Cutting edge orchestrates.
-
-Expertise: Team Mentor, Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Data warehousing, Data Pipelines, ETL, Application Containerize and Orchestrates with Kubernetes and Python.
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&include_all_commits=true&theme=merko) -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&show_icons=true&theme=dark"/> 
