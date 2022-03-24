@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=MaryaTorkamani)
 
 
-Over 7 years of experience in data analyzing, data engineering, developing ML features and implementing BI solutions in the fintech areas.
-I enjoy working in teams due to my excellent communication skills. Through my work experience, I have gained valuable team management skills, with the capability to negotiate with different personality types. To be more creative, I am eager to address new issues and solve them using new technologies.
+Over 7 years of experience in data analyzing, data engineering, developing ML features and implementing BI solutions in the fintech areas. I enjoy working in teams due to my excellent communication skills. Through my work experience, I have gained valuable team management skills, with the capability to negotiate with different personality types. To be more creative, I am eager to address new issues and solve them using new technologies.
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&include_all_commits=true&theme=merko) -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&show_icons=true&theme=dark"/> 
