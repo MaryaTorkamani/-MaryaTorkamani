@@ -31,8 +31,6 @@ QUALIFICATIONS SUMMARY:
 ### DevOps Skills:
 
 - Bash - Python
-- Ansible - Puppet
-- Terraform - Cloud Formation - CDKTF (Typescript)
 - Docker - DockerCompose
 - Kubernetes - CKA - CKAD - CKS
 - Helm Package manager
