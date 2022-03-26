@@ -32,8 +32,6 @@ QUALIFICATIONS SUMMARY:
 
 - Bash - Python
 - Docker - DockerCompose
-- Istio - Kiali - Jeager
-- Kong API management - Traefik - ALB controller
 - Jenkins - ArgoCD - Gitlab CI/CD - Jenkins-X(GitOps) - Spinnaker - Teamcity - GitHub action - Azure DevOps
 - EKS - ECS - Lambda - RDS - VPC - Beanstalk - Autoscaling - SSM - KMS - ACM
 - Hashicorp Consul - Hashicorp Vault
