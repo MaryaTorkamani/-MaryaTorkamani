@@ -32,8 +32,6 @@ QUALIFICATIONS SUMMARY:
 
 - Bash - Python
 - Docker - DockerCompose
-- Kubernetes - CKA - CKAD - CKS
-- Helm Package manager
 - Istio - Kiali - Jeager
 - Kong API management - Traefik - ALB controller
 - Jenkins - ArgoCD - Gitlab CI/CD - Jenkins-X(GitOps) - Spinnaker - Teamcity - GitHub action - Azure DevOps
