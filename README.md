@@ -32,7 +32,6 @@ QUALIFICATIONS SUMMARY:
 
 - Bash - Python
 - Docker - DockerCompose
-- Hashicorp Consul - Hashicorp Vault
 - Redis - Kafka
 - Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
 - Keycloak - Velero 
