@@ -32,7 +32,6 @@ QUALIFICATIONS SUMMARY:
 
 - Bash - Python
 - Docker - DockerCompose
-- EKS - ECS - Lambda - RDS - VPC - Beanstalk - Autoscaling - SSM - KMS - ACM
 - Hashicorp Consul - Hashicorp Vault
 - Redis - Kafka
 - Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
