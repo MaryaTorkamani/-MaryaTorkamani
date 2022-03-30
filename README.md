@@ -32,7 +32,6 @@ QUALIFICATIONS SUMMARY:
 
 - Bash - Python
 - Docker - DockerCompose
-- Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
 - Keycloak - Velero 
 
 ### DataOps Skills:
