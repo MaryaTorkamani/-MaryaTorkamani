@@ -32,7 +32,6 @@ QUALIFICATIONS SUMMARY:
 
 - Bash - Python
 - Docker - DockerCompose
-- Keycloak - Velero 
 
 ### DataOps Skills:
 
