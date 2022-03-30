@@ -37,7 +37,8 @@ QUALIFICATIONS SUMMARY:
 
 - Airflow
 - MSK - MSK plugins - MSK connector - S3bucket
-- ETL DataFlow - Data Pipeline
+- ETL DataFlow 
+- Data Pipeline
 - Redshift - Hadoop cluster
 
 ### Cloud Skills:
