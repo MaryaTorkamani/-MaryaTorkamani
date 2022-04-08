@@ -9,8 +9,8 @@ QUALIFICATIONS SUMMARY:
 - SQL queries, data management, data quality techniques, data warehouse development lifecycle, and data visualization
 - Data preparation, collection, and cleaning (Data warehousing, Data Pipelines, and ETL) 
 - Python Programming
-• Understanding of various data structures, algorithms, and Machine Learning techniques
-• Team Building, Continuous Learning, Adaptability, Networking, and Perseverance
+- Understanding of various data structures, algorithms, and Machine Learning techniques
+- Team Building, Continuous Learning, Adaptability, Networking, and Perseverance
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&include_all_commits=true&theme=merko) -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&show_icons=true&theme=dark"/> 
