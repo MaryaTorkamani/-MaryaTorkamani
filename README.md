@@ -11,6 +11,9 @@ QUALIFICATIONS SUMMARY:
 - Python Programming
 - Understanding of various data structures, algorithms, and Machine Learning techniques
 - Team Building, Continuous Learning, Adaptability, Networking, and Perseverance
+- Global talent
+- 
+- 
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&include_all_commits=true&theme=merko) -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaryaTorkamani&show_icons=true&theme=dark"/> 
@@ -75,3 +78,6 @@ QUALIFICATIONS SUMMARY:
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
 
+### Awards
+
+- Global talent
