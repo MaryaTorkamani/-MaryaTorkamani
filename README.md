@@ -19,11 +19,11 @@ QUALIFICATIONS SUMMARY:
 
 ### find me here
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadali-bagheri)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-torkamani-884b2483/)
 [![youtube](https://img.shields.io/badge/youtube-f0f0f0?&style=for-the-badge&logo=youtube&logoColor=white&color=ea4335)](https://www.youtube.com/channel/UCve--OvdZ5YROq4BEKyedCw/featured)
-[![Telegram Channel](https://img.shields.io/badge/Channel-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/DevOpsHobbies) 
-[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:MaryaTorkamani2010@gmail.com)
-[![Yahoo](https://img.shields.io/badge/yahoo-%230077B5.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:MaryaTorkamani@yahoo.com)
+[![Telegram Channel](https://img.shields.io/badge/Channel-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/DataHobbies) 
+[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:torkamani.marya@gmail.com)
+
 
 
 ## Core Competencies and Skills
