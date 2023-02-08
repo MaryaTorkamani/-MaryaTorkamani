@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=MaryaTorkamani)
 
 
-Over 7 years of experience in data analyzing, data engineering, developing ML features and implementing BI solutions in the fintech areas. I enjoy working in teams due to my excellent communication skills. Through my work experience, I have gained valuable team management skills, with the capability to negotiate with different personality types. To be more creative, I am eager to address new issues and solve them using new technologies.
+Over 15 years of experience in system analysis, software engineering, data analyzing, data engineering, developing ML features and implementing BI solutions in the fintech areas. I enjoy working in teams due to my excellent communication skills. Through my work experience, I have gained valuable team management skills, with the capability to negotiate with different personality types. To be more creative, I am eager to address new issues and solve them using new technologies.
 
 QUALIFICATIONS SUMMARY:
 - SQL queries, data management, data quality techniques, data warehouse development lifecycle, and data visualization
